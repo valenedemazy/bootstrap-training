@@ -1,0 +1,29 @@
+/*.row {
+   
+    background-color: purple;
+}
+
+.row{
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid red;;
+}
+*/
+
+
+#border{
+
+border: 1px solid black;
+text-align: center;
+background-color: blueviolet;
+border-radius: 5px;
+font-weight: bold;
+   
+
+}
+body{
+
+margin:100px;
+
+
+
+}
